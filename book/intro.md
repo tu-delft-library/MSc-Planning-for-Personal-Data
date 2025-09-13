@@ -1,6 +1,8 @@
 (intro)=
 # Welcome to the Template Book
 
-_This is the first page the student will see when opening the url._
+How to use reference:
 
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going!
+1. Add to "references.bib" following the example existing there.
+
+2. Use in 3 different ways: {cite:t}`jason_moore`, {cite:p}`jason_moore` or {cite}`jason_moore`

@@ -13,7 +13,7 @@ By participating in this module, you will learn to:
 | Section II | Identify potential risks to human participants. Explain how to mitigate these risks. |
 | Section III | Enact key components of TU Delft's Human Research Ethics Committee's application process. |
 
-## Format of this mini-module:
+## Format of this mini-module
 
 This mini-module is online and self-paced. It will take you about 20 minutes to go through the materials. The quizzes at the end of each section are optional. The quizzes will add a few extra minutes to the total time it takes to complete the module. The module has an open format, which means you can bookmark it and refer to the information in the future.  
 

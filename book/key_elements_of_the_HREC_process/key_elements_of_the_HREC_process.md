@@ -15,9 +15,9 @@ The role of the HREC is to act as a review and advisory board for TU Delft resea
 Let's start with a visual overview of the whole HREC application workflow. Then we'll zoom in to each component:
 ```{admonition} Flowchart Viewing Tip
 :class: tip
-For optimal viewing of the flowchart, we suggest that you [download the flowchart](../figures/flowchart_pdf.pdf), and that you view it on a device with a bigger screen.
+For optimal viewing of the flowchart, we suggest that you [download the flowchart](../content_to_download/flowchart_pdf.pdf), and that you view it on a device with a bigger screen.
 ```
-```{iframe} ../figures/flowchart_pdf.pdf
+```{iframe} ../content_to_download/flowchart_pdf.pdf
 :width: 100%
 :aspectratio: auto 16 / 9
 ```

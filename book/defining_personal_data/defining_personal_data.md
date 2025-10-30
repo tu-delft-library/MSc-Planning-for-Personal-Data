@@ -1,4 +1,4 @@
-# Defining personal data
+# I. Defining Personal Data
 
 In this section, we will define personal data and give examples. 
 

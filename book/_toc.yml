@@ -6,8 +6,8 @@ parts:
     chapters:
     - file: introduction/introduction.md
     - file: defining_personal_data/defining_personal_data.md
-    - file: strategies_to_minimise_risks/strategies_to_minimise_risks.md
-    - file: the_HREC_process/the_HREC_process.md
+    - file: strategies_to_minimise_risks_to_participants/strategies_to_minimise_risks_to_participants.md
+    - file: key_elements_of_the_HREC_process/key_elements_of_the_HREC_process.md
     - file: closing_remarks/closing_remarks.md
     - file: references.md
     - file: credits.md

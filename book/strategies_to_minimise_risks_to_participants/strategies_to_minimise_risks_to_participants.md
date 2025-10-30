@@ -29,7 +29,7 @@ The general structure of an ICF is as follows:
 - **Researcher's Contact Information**: gives participants a way to contact you if they have concerns or complaints.
 - **Participant's Signature**: Participants sign to indicate they have read and understand the details in the ICF (can include the date).
 
-Visit [this](https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics/informed-consent-templates-and-guide) link to see the Human Research Ethics Committee's templates and guidance.
+Visit [this](https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics/informed-consent-templates-and-guide){target="_blank"} link to see the Human Research Ethics Committee's templates and guidance.
 
 [Click here](../content_to_download/Janine_Example_ICF_Aug2025.pdf) to download an example of an ICF.
 

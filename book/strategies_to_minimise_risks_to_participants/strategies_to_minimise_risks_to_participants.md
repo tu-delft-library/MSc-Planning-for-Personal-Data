@@ -2,7 +2,7 @@
 
 ## Research Ethics: Minimising Risks
 
-**Conducting ethical research means avoiding potential harm to participants** from the moment you start designing your research project to the time and for as long as the data is stored and archived. It's important to anticipate any damage that could occur from collecting, sharing, and storing personal data. In this section, we'll focus on strategies to minimise such risks.   
+**Conducting ethical research means avoiding potential harm to participants** from the moment you start designing your research project for as long as the data is stored and archived. It's important to anticipate any damage that could occur from collecting, sharing, and storing personal data. In this section, we'll focus on strategies to minimise such risks.   
 
 Here are three examples of risks related to personal data. Turn the cards to see potential mitigations for each:
 
@@ -24,14 +24,15 @@ The general structure of an ICF is as follows:
 - **Intro**: explains who you are and research partners in the study.
 - **The Topic**: explains what you are studying and what you want to find out.
 - **The Protocol**: explains what you are asking people to do and potential risks involved.
-- **The Data**: to be collected.
+- **The Data**: describes what type(s) of data will be collected from participants.
 - **Participants’ Rights**: explains that participants can exit the study at any time with no negative consequences.
 - **Researcher's Contact Information**: gives participants a way to contact you if they have concerns or complaints.
 - **Participant's Signature**: Participants sign to indicate they have read and understand the details in the ICF (can include the date).
 
 Visit [this](https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics/informed-consent-templates-and-guide) link to see the Human Research Ethics Committee's templates and guidance.
 
-[Click here](../content_to_download/Janine_Example_ICF_Aug2025.pdf) to download an example of an ICF. Please note, this example includes sections stating that not only will the data be used in the thesis (which is published in the TU Delft Repository), but the anonymised and aggregated dataset will be shared in a data repository (4TU.ResearchData) as well. Sharing to a data repository is optional for students. We've included it in this example, because these sentences/consent points can be easily omitted (and it is important to get right if you do want to do this). 
+[Click here](../content_to_download/Janine_Example_ICF_Aug2025.pdf) to download an example of an ICF. 
+*Please note, this example includes sections stating that not only will the data be used in the thesis (which is published in the TU Delft Repository), but the anonymised and aggregated dataset will be shared in a data repository (4TU.ResearchData) as well. Sharing to a data repository is optional for students. We've included it in this example, because these sentences/consent points can be easily omitted (and it is important to get right if you do want to do this). 
 
 **You'll need to adapt these templates and examples to craft an ICF that fits your specific project.**
 
@@ -47,7 +48,7 @@ The main difference is that participants do not give their name or signature. In
 
 #### What if informed consent cannot be obtained?
 
-If you cannot obtain informed consent, for instance, if you plan to re-use data from humans from social media, your supervisor will need to reach out to the TU Delft Privacy Team regarding the lawful basis and required measures.
+If you cannot obtain informed consent, for instance, if you plan to re-use data from humans from social media, your supervisor will need to reach out to the TU Delft Privacy Team regarding the lawful basis (a valid reason to colect/re-use the data) and required measures.
 
 ### Risk Reduction Strategy #2: Anonymising & Pseudonymising Personal Data
 
@@ -69,7 +70,7 @@ A dataset contains interview transcripts with quotes like “As the only female 
 
 ```{admonition} Example
 :class: tip
-A researcher recorded participants’ last names. To pseudonymise the data, she replaces the last names with number codes and creates a key showing the code for each name. Pseudonymised data can be shared with restricted access, with participants' consent. She must then store the key in a secure location and control access to it since the key allows for reidentification of participants.
+A researcher recorded participants’ last names. To pseudonymise the data, she replaces the last names with number codes and creates a key showing the code for each name. Pseudonymised data can be shared with restricted access, with participants' consent. The researcher must then store the key in a secure location and control access to it since the key allows for reidentification of participants.
 ```
 
 This example illustrates that pseudonymisation is **reversible** (with the key). This is why **pseudonymised data is still considered personal data.**
@@ -86,7 +87,7 @@ Here is an overview of recommended storage platforms for master’s students at 
 
 #### Recommended Storage Solutions
 
-```{dropdown} Project Folder (U:) Drive
+```{dropdown} Project Data (U:) Drive
 
 **Key details**
 * If you are working with special categories of personal data or data from vulnerable subjects, it is strongly recommended to use Project Data (U:) Drive, a network drive provided by TU Delft, for secure data storage.
@@ -151,19 +152,18 @@ Here is an overview of recommended storage platforms for master’s students at 
 “Pen Drives not a secure storage solution” by TU Delft Library – Education Support is licensed under CC BY 4.0
 ```
 
-- Commercial third party cloud storage such as Dropbox and Google Drive: avoid storing data on your personal (non-TU Delft) accounts, particularly personal research data. Cloud applications such as Google and Dropbox store data outside the EU, and are thus not approved by TU Delft.   
+- Commercial third party cloud storage such as Dropbox and Google Drive: Cloud applications such as Google and Dropbox store data outside the EU. They are thus not approved by TU Delft, especially for storing on personal research data.
 
 - Portable drives such as hard drives and thumb drives: it’s too easy for these to get damaged, lost or fall into the wrong hands.   
 
 - Floating on the desktop of your personal computer: this puts any personal data at risk (and all your work could get lost if stolen or broken).  
 
-- Remember that a personal data breach or leak can lead to serious consequences. 
-
 #### Best Practices for Storage 
 
 - It's important to discuss the end-of-life of the data with your supervisor: How long should the data be stored? Where? Who will have access to it?
   
-- Whenever possible, directly identifiable details should be stored separately from indirectly identifiable information in order to decrease the potential for reidentification of participants.  
+- Whenever possible, directly identifiable details should be stored separately from indirectly identifiable information in order to decrease the potential for reidentification of participants.
+  
     - For example: informed consent forms with participants’ names and signatures should be stored in a secure folder separate from the other raw data. The same rule applies to the keys for pseudonymised data. 
 
 - Institutional TU Delft storage solutions should be used.  

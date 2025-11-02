@@ -29,11 +29,11 @@ The general structure of an ICF is as follows:
 - **Researcher's Contact Information**: gives participants a way to contact you if they have concerns or complaints.
 - **Participant's Signature**: Participants sign to indicate they have read and understand the details in the ICF (can include the date).
 
-Visit [this](https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics/informed-consent-templates-and-guide){target="_blank"} link to see the Human Research Ethics Committee's templates and guidance.
+Visit [this](https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics/informed-consent-templates-and-guide) link to see the Human Research Ethics Committee's templates and guidance.
 
-[Click here](../content_to_download/Janine_Example_ICF_Aug2025.pdf) to download an example of an ICF.
+[Click here](../content_to_download/Janine_Example_ICF_Aug2025.pdf) to download an example of an ICF. Please note, this example includes sections stating that not only will the data be used in the thesis (which is published in the TU Delft Repository), but the anonymised and aggregated dataset will be shared in a data repository (4TU.ResearchData) as well. Sharing to a data repository is optional for students. We've included it in this example, because these sentences/consent points can be easily omitted (and it is important to get right if you do want to do this). 
 
-You'll need to adapt these templates and examples to craft an ICF that fits your specific project.
+**You'll need to adapt these templates and examples to craft an ICF that fits your specific project.**
 
 ```{note}
 An ICF is only effective if it clearly informs your participants: **people need to understand exactly what they're signing up for** and how you will minimise the potential risks. Therefore it should clearly explain the purpose of the study, how the data will be used and stored, who will have access to it, and what rights participants have (e.g., to withdraw at any time). **A well-prepared ICF builds trust, ensures ethical compliance, and protects both you and the participants.**

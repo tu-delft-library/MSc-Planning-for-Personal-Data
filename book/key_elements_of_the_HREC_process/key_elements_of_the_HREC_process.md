@@ -2,9 +2,9 @@
 
 ## Ethical Approval for Your Thesis Project
 
-In this section, we will describe the steps required to obtain ethical approval for your thesis project. If you plan to work with any data related to humans, you must submit an application to the HREC, the Human Research Ethics Committee.  
+In this section, we will describe the steps required to obtain ethical approval for your thesis project. If you plan to work with any data related to humans, you must submit an application to the TU Delft HREC, the Human Research Ethics Committee.  
 
-You must obtain ethical approval from the HREC before you collect or work with any human research data. It's wise to get organised and plan your research methods as early as possible, since it will take time and effort to gather the components and documentation necessary for a complete HREC application. 
+You must obtain ethical approval from the HREC before you collect or work with any human research data. It's wise to get organised and plan your research methods as early as possible, since it will take time and effort to prepare a complete HREC application. 
 
 ## What is the HREC?
 
@@ -28,7 +28,7 @@ For optimal viewing of the flowchart, we suggest that you [download the flowchar
 
 In the HREC checklist, you will indicate potential risks involved in your research and describe the specific strategies that you will use to minimise these risks. You saw examples of risks and corresponding mitigations in Section II of this module. It is also good to know:  
 
-- Your thesis supervisor is the "Responsible Researcher” on the HREC checklist. You are the "Corresponding Researcher.” 
+- Your thesis supervisor is the "Responsible Researcher” on the HREC checklist. You are the "Corresponding Researcher”. 
 
 - Your supervisor needs to sign the HREC checklist as the responsible researcher. 
 
@@ -72,19 +72,19 @@ To read about requirements for medical data or the development of medical protot
 
 By planning carefully and gathering all the necessary documents for the HREC process, you can save a lot of time and effort. If key components of your HREC application are missing, you may be required to revise and resubmit the application, which could delay the start of your research. Here are some examples of "holes” that could trigger resubmission:  
 
-- You didn't include copies of the required documents like your Informed Consent form.  
+    - You didn't include copies of the required documents like your Informed Consent form.  
 
-- The descriptions of your planned research methods are unclear or incomplete in your DMP.  
+    - The descriptions of your planned research methods are unclear or incomplete in your DMP.  
 
-- Your research indicates increased risk to participants without adequate mitigations or rationale (e.g.: processing special categories of personal data, vulnerable data subjects). 
+    - Your research indicates increased risk to participants without adequate mitigations or rationale (e.g.: processing special categories of personal data, vulnerable data subjects). 
 
-- The risk assessment checklist does not demonstrate that you've adequately assessed or appropriately mitigated risks to your human research participants.  
+    - The risk assessment checklist does not demonstrate that you've adequately assessed or appropriately mitigated risks to your human research participants.  
 
 - There is misalignment between the documents included in the application. For example, the DMP says: “Pseudonymised dataset will be archived under restricted access," but the consent form states, “Your anonymised data will be made openly available.” 
 
-- For internships, missing agreements with external parties, such as Data Processing Agreement for sharing personal data with external researchers.  
+    - For internships, missing agreements with external parties, such as Data Processing Agreement for sharing personal data with external researchers.  
 
-- Intention to conduct research in an area with orange or red travel advice by the Dutch Ministry of Foreign Affairs. 
+    - Intention to conduct research in an area with orange or red travel advice by the Dutch Ministry of Foreign Affairs. 
 
 ## Get Help! Seeking Advice and Support
 

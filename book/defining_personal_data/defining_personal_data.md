@@ -8,7 +8,7 @@ As a researcher, it's important to recognize in advance whether your study will 
 
 ```{admonition} Instructions
 :class: tip
-Watch this video to learn about recognizing different types of personal data and to understand why some types of personal data carry increased risk.
+Watch this video to learn about recognizing different types of personal data and to understand why some types of personal data carry increased risk. You can enable captions using the video's menu bar. 
 ```
 
 <iframe
@@ -21,6 +21,7 @@ allowfullscreen
 ></iframe>
 
 <br>
+
 Will your thesis project involve processing any data from humans, including datasets collected by a 3rd party or data collected from social media? If yes, you must submit a request to the TU Delft Human Research Ethics Committee (HREC). Proceed to the next sections to learn more. 
 
 ## Practice (Optional)

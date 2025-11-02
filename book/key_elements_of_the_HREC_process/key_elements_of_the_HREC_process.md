@@ -72,13 +72,13 @@ To read about requirements for medical data or the development of medical protot
 
 By planning carefully and gathering all the necessary documents for the HREC process, you can save a lot of time and effort. If key components of your HREC application are missing, you may be required to revise and resubmit the application, which could delay the start of your research. Here are some examples of "holes” that could trigger resubmission:  
 
-    - You didn't include copies of the required documents like your Informed Consent form.  
+- You didn't include copies of the required documents like your Informed Consent form.  
 
-    - The descriptions of your planned research methods are unclear or incomplete in your DMP.  
+- The descriptions of your planned research methods are unclear or incomplete in your DMP.  
 
-    - Your research indicates increased risk to participants without adequate mitigations or rationale (e.g.: processing special categories of personal data, vulnerable data subjects). 
+- Your research indicates increased risk to participants without adequate mitigations or rationale (e.g.: processing special categories of personal data, vulnerable data subjects). 
 
-    - The risk assessment checklist does not demonstrate that you've adequately assessed or appropriately mitigated risks to your human research participants.  
+- The risk assessment checklist does not demonstrate that you've adequately assessed or appropriately mitigated risks to your human research participants.  
 
 - There is misalignment between the documents included in the application. For example, the DMP says: “Pseudonymised dataset will be archived under restricted access," but the consent form states, “Your anonymised data will be made openly available.” 
 

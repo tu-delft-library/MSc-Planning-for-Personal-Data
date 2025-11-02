@@ -42,9 +42,9 @@ An ICF is only effective if it clearly informs your participants: **people need 
 
 #### Implied Consent via an Opening Statement
 
-For anonymous surveys, an opening statement should be used instead of a signed informed consent form. If your survey will not collect directly identifiable details like participants’ names/contact information, an opening statement is recommended because it actually minimises the collection of directly identifiable personal data. An opening statement functions like a cover page to the survey. Just like an informed consent form, an opening statement should clearly summarize the purpose of the study, how the data will be used and processed, how the data will be stored and protected, and for how long.
+If your survey will not collect directly identifiable details like participants’ names/contact information, an opening statement is recommended instead of a signed ICF to minimise the collection of directly identifiable personal data. An opening statement functions like a cover page to the survey. Just like an informed consent form, an opening statement should clearly summarize the purpose of the study, how the data will be used and processed, how the data will be stored and protected, and for how long.
 
-The main difference is that participants do not give their name or signature. Instead, they are asked to imply their consent by clicking a button to proceed to the start of the survey.
+The main difference is that participants do not give their name or signature. Instead, they are asked to imply their consent by clicking onwards to the start of the survey.
 
 #### What if informed consent cannot be obtained?
 

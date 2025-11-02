@@ -20,7 +20,10 @@ frameborder="0"
 allowfullscreen
 ></iframe>
 
-## Practice
+<br>
+Will your thesis project involve processing any data from humans, including datasets collected by a 3rd party or data collected from social media? If yes, you must submit a request to the TU Delft Human Research Ethics Committee (HREC). Proceed to the next sections to learn more. 
+
+## Practice (Optional)
 
 The video defined personal data, gave examples, and discussed categories of personal data that carry different degrees of sensitivity. Now you have the option to take a short practice quiz to check your understanding of key concepts. 
 
@@ -29,4 +32,4 @@ The video defined personal data, gave examples, and discussed categories of pers
 
 <br>
 
-Will your thesis project involve processing any data from humans, including datasets collected by a 3rd party or data collected from social media? If yes, you must submit a request to the TU Delft Human Research Ethics Committee (HREC). Proceed to the next sections to learn more. 
+

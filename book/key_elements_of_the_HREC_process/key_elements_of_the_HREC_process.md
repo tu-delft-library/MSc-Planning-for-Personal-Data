@@ -102,7 +102,8 @@ By planning carefully and gathering all the necessary documents for the HREC pro
 
 - Find the data steward for your faculty [here](https://www.tudelft.nl/en/library/data-management/get-support-on-data-management/contact-the-data-stewards).
 
-**Practice**: Take this optional quiz to review key details about the HREC application process.
+## Practice (Optional)
+Take this optional quiz to review key details about the HREC application process.
 
 ```{h5p} https://tudelft.h5p.com/content/1292724006338726317/embed
 ```

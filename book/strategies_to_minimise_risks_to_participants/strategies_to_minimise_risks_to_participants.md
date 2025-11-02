@@ -2,7 +2,7 @@
 
 ## Research Ethics: Minimising Risks
 
-Conducting ethical research means avoiding potential harm to participants from the moment you start designing your research project to the time and for as long as the data is stored and archived. It's important to anticipate any damage that could occur from collecting, sharing, and storing personal data. In this section, we'll focus on strategies to minimise such risks.   
+**Conducting ethical research means avoiding potential harm to participants** from the moment you start designing your research project to the time and for as long as the data is stored and archived. It's important to anticipate any damage that could occur from collecting, sharing, and storing personal data. In this section, we'll focus on strategies to minimise such risks.   
 
 Here are three examples of risks related to personal data. Turn the cards to see potential mitigations for each:
 
@@ -171,7 +171,9 @@ Here is an overview of recommended storage platforms for master’s students at 
 - Your supervisor should have access to the data.  
 
 
-**Practice:** Take this optional quiz to check your understanding of risk mitigation strategies. 
+## Practice (Optional) 
+
+Take this optional quiz to check your understanding of risk mitigation strategies. 
 
 ```{h5p} https://tudelft.h5p.com/content/1292723955210401517/embed
 ```

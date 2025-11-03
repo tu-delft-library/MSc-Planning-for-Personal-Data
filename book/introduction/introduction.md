@@ -26,4 +26,4 @@ This pilot material was developed in collaboration between Narmin Rzayeva (TU De
 
 ## How to Cite This Resource 
 
-Folsom, P., Ryazeva, N. (2025). MSc Planning for Personal Data Mini-module. https://tu-delft-library.github.io/MSc-Planning-for-Personal-Data/main/intro.html
+> `Folsom, P., Ryazeva, N.` (`2025`) _`MSc Planning for Personal Data Mini-module`_. `<https://tu-delft-library.github.io/MSc-Planning-for-Personal-Data/main/introduction/introduction.html>`. Source files at `<https://github.com/TUDelft-books/MSc-Planning-for-Personal-Data>`. CC BY 4.0.

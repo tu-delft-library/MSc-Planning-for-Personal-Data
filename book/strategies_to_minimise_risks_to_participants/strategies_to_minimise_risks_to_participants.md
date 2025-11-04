@@ -29,6 +29,10 @@ The general structure of an ICF is as follows:
 - **Researcher's Contact Information**: gives participants a way to contact you if they have concerns or complaints.
 - **Participant's Signature**: Participants sign to indicate they have read and understand the details in the ICF (can include the date).
 
+#### Templates and Examples of ICFs: 
+
+**You'll need to adapt these templates and examples to craft an ICF that fits your specific project.**
+
 Visit <a href="https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics/informed-consent-templates-and-guide" target="_blank">this link</a> to see the Human Research Ethics Committee's templates and guidance.
 
 
@@ -36,7 +40,7 @@ Visit <a href="https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid
 
 >*Please note, this example includes sections stating that not only will the data be used in the thesis (which is published in the TU Delft Repository), but the anonymised and aggregated dataset will be shared in a data repository (4TU.ResearchData) as well. Sharing to a data repository is optional for students. We've included it in this example, because these sentences/consent points can be easily omitted (and it is important to get right if you do want to do this). 
 
-**You'll need to adapt these templates and examples to craft an ICF that fits your specific project.**
+
 
 ```{note}
 An ICF is only effective if it clearly informs your participants: **people need to understand exactly what they're signing up for** and how you will minimise the potential risks. Therefore it should clearly explain the purpose of the study, how the data will be used and stored, who will have access to it, and what rights participants have (e.g., to withdraw at any time). **A well-prepared ICF builds trust, ensures ethical compliance, and protects both you and the participants.**
@@ -79,7 +83,7 @@ This example illustrates that pseudonymisation is **reversible** (with the key).
 
 Let's revisit the example of the large-scale survey on students’ learning experiences that was mentioned in the section above. In this example, you can adjust identifiers without impacting the research question. For instance, detailed programme codes can be **aggregated** by grouping into faculty/discipline, and individual campus or city names can be **aggregated** into broader regions. Student IDs can then be pseudonymised by replacing the IDs with random codes. Ensure the linkage file (code key) is stored separately in a secure location, with access restricted to the minimum necessary project collaborators.
 
-Anonymisation and pseudonymisation are time-intensive processes. We recommend that you design your study to collect only the personal data  that you absolutely need to answer your research question(s). Right now, in the planning phase of your research, you must establish whether you will anonymise or pseudonymise participants’ personal data. On the Informed Consent form and in your ethics application you must describe how/which personal data you will anonymise or pseudonymise .
+Anonymisation and pseudonymisation are time-intensive processes. We recommend that you design your study to collect only the personal data  that you absolutely need to answer your research question(s). Right now, in the planning phase of your research, you must establish whether you will anonymise or pseudonymise participants’ personal data. On your Informed Consent form and in your ethics application you must describe how/which personal data you will anonymise or pseudonymise.
 
 ### Risk Reduction Strategy #3: Secure Storage
 

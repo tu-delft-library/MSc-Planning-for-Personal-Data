@@ -2,7 +2,7 @@
 
 ## Research Ethics: Minimising Risks
 
-**Conducting ethical research means avoiding potential harm to participants** from the moment you start designing your research project for as long as the data is stored and archived. It's important to anticipate any damage that could occur from collecting, sharing, and storing personal data. In this section, we'll focus on strategies to minimise such risks.   
+**Conducting ethical research means avoiding potential harm to participants** from the moment you start designing your research project for as long as the data is stored <mark>and archived. It's important to anticipate any damage that could occur from collecting, sharing, and storing personal data.</mark> In this section, we'll focus on strategies to minimise such risks.   
 
 Here are three examples of risks related to personal data. Turn the cards to see potential mitigations for each:
 
@@ -33,7 +33,8 @@ Visit <a href="https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid
 
 
 [Click here](../content_to_download/Janine_Example_ICF_Aug2025.pdf) to download an example of an ICF. 
-*Please note, this example includes sections stating that not only will the data be used in the thesis (which is published in the TU Delft Repository), but the anonymised and aggregated dataset will be shared in a data repository (4TU.ResearchData) as well. Sharing to a data repository is optional for students. We've included it in this example, because these sentences/consent points can be easily omitted (and it is important to get right if you do want to do this). 
+
+>*Please note, this example includes sections stating that not only will the data be used in the thesis (which is published in the TU Delft Repository), but the anonymised and aggregated dataset will be shared in a data repository (4TU.ResearchData) as well. Sharing to a data repository is optional for students. We've included it in this example, because these sentences/consent points can be easily omitted (and it is important to get right if you do want to do this). 
 
 **You'll need to adapt these templates and examples to craft an ICF that fits your specific project.**
 
@@ -53,32 +54,32 @@ If you cannot obtain informed consent, for instance, if you plan to re-use data 
 
 ### Risk Reduction Strategy #2: Anonymising & Pseudonymising Personal Data
 
-**Anonymisation** is the process of modifying/erasing all personal data that may be traceable to a unique person in such a way that it is no longer possible to link it to a specific research participant. Anonymisation is permanent and irreversible. After a data set is anonymised it's no longer considered personal data because the information cannot be traced back to any single participant. Anonymisation makes it possible to store, process, and share without exposing people's personal data. 
+**Anonymisation** is the process of modifying/erasing all personal data that may be traceable to a unique person in such a way that it is no longer possible to link it to a specific research participant. Anonymisation is **permanent and irreversible**. After a data set is anonymised it's no longer considered personal data because the information cannot be traced back to any single participant. Anonymisation makes it possible to store, process, and share without exposing people's personal data. 
 
-```{admonition} Example 1
+```{admonition} Example 1: Anonymisation
 :class: tip
 In a large-scale survey on students' learning experiences across universities, full anonymisation means removing all personal data that could be linked back to an individual. For example, deleting student ID numbers, email addresses, and names of supervisors mentioned in responses.
 ```
 
-Good practice is not to collect such personal details in the first place if they are not essential to address research questions (note: it may be necessary to collect names for the purposes of informed consent). But if they have already been collected, researchers must ensure they are removed so the dataset can no longer be traced back to a specific person. 
+Best practice is not to collect such personal details in the first place if they are not essential to address research questions (note: it may be necessary to collect names for the purposes of informed consent). But if these details have already been collected, researchers must ensure they are removed so the dataset can no longer be traced back to a specific person. 
 
-```{admonition} Example 2
+```{admonition} Example 2: Anonymisation
 :class: tip
 A dataset contains interview transcripts with quotes like “As the only female professor in the Department of Chemical Engineering, I often feel….” This clearly identifies the participant. After anonymisation, the transcript is changed to “As a professor in my department, I often feel….” The reference to a gender and specific department is removed so the statement can no longer be traced back to one individual.
 ```
 
-**Pseudonymisation** means that a researcher replaces certain personal data with anonymous identifiers such as number or letter combinations in a way that the personal data can't point to a specific subject without additional information. As part of pseudonymisation the researcher also aggregates the data or replaces specific details with more general categories. 
+**Pseudonymisation** means that a researcher replaces certain personal data with anonymous identifiers such as number or letter combinations in a way that the personal data can't point to a specific subject without additional information. As part of pseudonymisation the researcher also **aggregates** the data, replacing specific details with more general categories. 
 
-```{admonition} Example
+```{admonition} Example: Pseudonymisation
 :class: tip
-A researcher recorded participants’ last names. To pseudonymise the data, she replaces the last names with number codes and creates a key showing the code for each name. Pseudonymised data can be shared with restricted access, with participants' consent. The researcher must then store the key in a secure location and control access to it since the key allows for reidentification of participants.
+A researcher recorded participants’ last names. To pseudonymise the data, she replaces the last names with number codes and creates a key showing the code for each name. This pseudonymised data can be shared with restricted access, with participants' consent. The researcher must then store the key in a secure location and control access to it since the key allows for reidentification of participants.
 ```
 
 This example illustrates that pseudonymisation is **reversible** (with the key). This is why **pseudonymised data is still considered personal data.**
 
 Let's revisit the example of the large-scale survey on students’ learning experiences that was mentioned in the section above. In this example, you can adjust identifiers without impacting the research question. For instance, detailed programme codes can be **aggregated** by grouping into faculty/discipline, and individual campus or city names can be **aggregated** into broader regions. Student IDs can then be pseudonymised by replacing the IDs with random codes. Ensure the linkage file (code key) is stored separately in a secure location, with access restricted to the minimum necessary project collaborators.
 
-Anonymisation and pseudonymisation are time-intensive processes. We recommend that you design your study to collect only the personal data  that you absolutely need to answer your research question(s). Right now, in the planning phase of your research, you must establish whether you will anonymise or pseudonymise participants’ personal data. You'll need to describe how/what you will anonymise or pseudonymise on the Informed Consent form as well as in your ethics application.
+Anonymisation and pseudonymisation are time-intensive processes. We recommend that you design your study to collect only the personal data  that you absolutely need to answer your research question(s). Right now, in the planning phase of your research, you must establish whether you will anonymise or pseudonymise participants’ personal data. On the Informed Consent form and in your ethics application you must describe how/which personal data you will anonymise or pseudonymise .
 
 ### Risk Reduction Strategy #3: Secure Storage
 

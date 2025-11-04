@@ -74,16 +74,19 @@ A dataset contains interview transcripts with quotes like “As the only female 
 
 **Pseudonymisation** means that a researcher replaces certain personal data with anonymous identifiers such as number or letter combinations in a way that the personal data can't point to a specific subject without additional information. As part of pseudonymisation the researcher also **aggregates** the data, replacing specific details with more general categories. 
 
-```{admonition} Example: Pseudonymisation
+```{admonition} Example 1: Pseudonymisation
 :class: tip
 A researcher recorded participants’ last names. To pseudonymise the data, she replaces the last names with number codes and creates a key showing the code for each name. This pseudonymised data can be shared with restricted access, with participants' consent. The researcher must then store the key in a secure location and control access to it since the key allows for reidentification of participants.
 ```
 
 This example illustrates that pseudonymisation is **reversible** (with the key). This is why **pseudonymised data is still considered personal data.**
 
-Let's revisit the example of the large-scale survey on students’ learning experiences that was mentioned in the section above. In this example, you can adjust identifiers without impacting the research question. For instance, detailed programme codes can be **aggregated** by grouping into faculty/discipline, and individual campus or city names can be **aggregated** into broader regions. Student IDs can then be pseudonymised by replacing the IDs with random codes. Ensure the linkage file (code key) is stored separately in a secure location, with access restricted to the minimum necessary project collaborators.
+```{admonition} Example 2: Pseudonymisation
+:class: tip
+In the large-scale study of students’ learning experiences mentioned earlier, the researchers are able to adjust identifiers without impacting their research question. The researchers **aggregate** detailed programme codes by grouping the participants into faculty/discipline, and also aggregate individual campus and city names into broader regions. The researchers **pseudonymise** the student IDs by replacing the IDs with random codes, ensuring that the linkage file (code key) is stored separately in a secure location, with access restricted to the minimum necessary project collaborators.
+```
 
-Anonymisation and pseudonymisation are time-intensive processes. We recommend that you design your study to collect only the personal data  that you absolutely need to answer your research question(s). Right now, in the planning phase of your research, you must establish whether you will anonymise or pseudonymise participants’ personal data. On your Informed Consent form and in your ethics application you must describe how/which personal data you will anonymise or pseudonymise.
+Anonymisation and pseudonymisation are **time-intensive processes**. We recommend that you design your study to collect only the personal data  that you absolutely need to answer your research question(s). Right now, in the planning phase of your research, you must establish whether you will anonymise or pseudonymise participants’ personal data. On your Informed Consent form and in your ethics application you must describe how/which personal data you will anonymise or pseudonymise.
 
 ### Risk Reduction Strategy #3: Secure Storage
 

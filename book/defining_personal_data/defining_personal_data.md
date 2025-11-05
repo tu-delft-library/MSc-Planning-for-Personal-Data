@@ -21,6 +21,7 @@ allowfullscreen
 ></iframe>
 
 <br>
+<br>
 
 Will your thesis project involve processing any data from humans, including datasets collected by a 3rd party or data collected from social media? If yes, you must submit a request to the TU Delft Human Research Ethics Committee (HREC). Proceed to the next sections to learn more. 
 

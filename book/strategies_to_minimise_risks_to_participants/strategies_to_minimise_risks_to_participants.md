@@ -37,9 +37,12 @@ The general structure of an ICF is as follows:
 Visit <a href="https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics/informed-consent-templates-and-guide" target="_blank">this link</a> to see the Human Research Ethics Committee's templates and guidance.
 
 
-[Click here](../content_to_download/Janine_Example_ICF_Aug2025.pdf) to download an example of an ICF. 
+[Click here](../content_to_download/ICF_Example.pdf) to download an example of an ICF. 
 
->*Please note, this example includes sections stating that not only will the data be used in the thesis (which is published in the TU Delft Repository), but the anonymised and aggregated dataset will be shared in a data repository (4TU.ResearchData) as well. Sharing to a data repository is optional for students. We've included it in this example, because these sentences/consent points can be easily omitted (and it is important to get right if you do want to do this). 
+<p style="font-size: 0.8em;">
+<b>*Please note:</b> this example includes sections stating that not only will the data be used in the thesis (which is published in the TU Delft Repository), but the anonymised and aggregated dataset will be shared in a data repository (4TU.ResearchData) as well. Sharing to a data repository is optional for students. We've included it in this example, because these sentences/consent points can be easily omitted (and it is important to get right if you do want to do this).
+</p>
+
 
 
 

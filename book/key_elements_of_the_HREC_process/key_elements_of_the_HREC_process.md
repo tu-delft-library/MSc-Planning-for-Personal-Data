@@ -41,7 +41,7 @@ You'll be instructed to upload a copy of your Data Management Plan (DMP). A DMP 
 
 ### Component #3: Participant consent materials
 
-You'll need to upload a copy of your informed consent letter or opening statement (refer back to [Section II](informed-consent-section) of the module for instructions/resources for drafting an informed consent statement).
+You'll need to upload a copy of your informed consent letter or opening statement (refer back to [Section II](#informed-consent-section) of the module for instructions/resources for drafting an informed consent statement).
 
 ### Additional required materials: Check for special circumstances!
 

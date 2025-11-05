@@ -15,6 +15,7 @@ Here, we look at three common risk mitigation strategies.
 
 ### Risk Reduction Strategy #1: Obtain Consent from Participants
 
+(informed-consent-section)=
 #### Direct Consent through Informed Consent
 
 An informed consent form (ICF) is standard practice used to mitigate risks for interviews, surveys, focus groups, ethnographic studies, observations, experiments with human participants, etc. An ICF is an agreement between the researcher (you) and the research participant (people from whom you plan to collect data).  

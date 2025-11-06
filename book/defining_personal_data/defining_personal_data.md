@@ -14,7 +14,7 @@ Watch this video to learn about recognizing different types of personal data and
 <iframe
 width="560"   
 height="315"
-src="https://www.youtube.com/embed/?v=eCSNqm-qyRs"
+src="https://youtu.be/embed/eCSNqm-qyRs"
 align="center"
 frameborder="0"
 allowfullscreen

@@ -45,28 +45,9 @@ You'll need to upload a copy of your informed consent letter or opening statemen
 
 ### Additional required materials: Check for special circumstances!
 
-The flowchart above applies to general research scenarios. Your thesis project may involve special circumstances that require additional permissions and documentation. Click on the accordion below to read more about each.
+The flowchart above applies to general research scenarios. Your thesis project may involve **special circumstances** that **require additional permissions and documentation** such as **internships which require a graduation agreement**, research conducted outside of the Netherlands, intention to work with special categories of personal data, or the development of medical prototypes. 
 
-```{dropdown} Internships
-
-For more information about Graduation Agreements or "Internship Agreements" see page 42 of the [PRDW+](https://filelist.tudelft.nl/Library/Themaportalen/RDM/Beleid/TU%20Delph%20PRDW__v1.1_19.02.25.pdf).
-
-To read more about sharing data with or receiving data from external collaborators, see information about Data Transfer or Data Processing Agreements on page 37 of the [PRDW+](https://filelist.tudelft.nl/Library/Themaportalen/RDM/Beleid/TU%20Delph%20PRDW__v1.1_19.02.25.pdf).
-
-To read about agreements for intellectual property rights, see page 33 of the [PRDW+](https://filelist.tudelft.nl/Library/Themaportalen/RDM/Beleid/TU%20Delph%20PRDW__v1.1_19.02.25.pdf).
-```
-```{dropdown} Research activities conducted outside of the Netherlands
-
-Master's students travelling abroad must attend a mandatory Travel Safety training session. For more information, visit the student portal for travel safety: (https://filelist.tudelft.nl/Studentenportal/Centraal/Mijn%20studie%20_%20ik/Onderwijs/Study%20Abroad/Before%20your%20stay%20abroad/Safety_%20Insurance%20_%20Medical%20Services/TU-TRAVEL%20CHECKLIST%2028032022.pdf).
-```
-```{dropdown} Special Categories of Personal Data
-
-Working with special categories of personal data requires a Data Protection Impact Assessment (DPIA). TU Delft has developed a template with a corresponding manual. For more information, see page 48 of the [PRDW+](https://filelist.tudelft.nl/Library/Themaportalen/RDM/Beleid/TU%20Delph%20PRDW__v1.1_19.02.25.pdf).
-```
-```{dropdown} Medical data or development of medical prototypes
-
-To read about requirements for medical data or the development of medical prototypes, see pages 46 and 49 of the [PRDW+](https://filelist.tudelft.nl/Library/Themaportalen/RDM/Beleid/TU%20Delph%20PRDW__v1.1_19.02.25.pdf).
-```
+> For more information, visit the [HREC's webpage](https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid/human-research-ethics/hrec-approval-1-application) to read more about preparing additional documentation for your HREC application.
 
 ## Importance of Careful Planning
 

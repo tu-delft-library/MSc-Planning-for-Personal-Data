@@ -40,7 +40,7 @@ Visit <a href="https://www.tudelft.nl/over-tu-delft/strategie/integriteitsbeleid
 [Click here](../content_to_download/ICF_Example.pdf) to download an example of an ICF. 
 
 <p style="font-size: 0.8em;">
-<b>*Please note:</b> this example includes sections stating that not only will the data be used in the thesis (which is published in the TU Delft Repository), but the anonymised and aggregated dataset will be shared in a data repository (4TU.ResearchData) as well. Sharing to a data repository is optional for students. We've included it in this example, because these sentences/consent points can be easily omitted (and it is important to get right if you do want to do this).
+<b>*Please note:</b> This example includes sections stating that not only will the data be used in the thesis (which is published in the TU Delft Repository), but the anonymised and aggregated dataset will be shared in a data repository (4TU.ResearchData) as well. Sharing to a data repository is optional for students. We've included it in this example, because these sentences/consent points can be easily omitted (and it is important to get right if you do want to do this).
 </p>
 
 
@@ -90,7 +90,7 @@ This example illustrates that pseudonymisation is **reversible** (with the key).
 In the large-scale study of students’ learning experiences mentioned earlier, the researchers are able to adjust identifiers without impacting their research question. The researchers **aggregate** detailed programme codes by grouping the participants into faculty/discipline, and also aggregate individual campus and city names into broader regions. The researchers **pseudonymise** the student IDs by replacing the IDs with random codes, ensuring that the linkage file (code key) is stored separately in a secure location, with access restricted to the minimum necessary project collaborators.
 ```
 
-Anonymisation and pseudonymisation are **time-intensive processes**. We recommend that you design your study to collect only the personal data  that you absolutely need to answer your research question(s). Right now, in the planning phase of your research, you must establish whether you will anonymise or pseudonymise participants’ personal data. On your Informed Consent form and in your ethics application you must describe how/which personal data you will anonymise or pseudonymise.
+Anonymisation and pseudonymisation are **time-intensive processes**. We recommend that you design your study to collect only the personal data that you absolutely need to answer your research question(s). Right now, in the planning phase of your research, you must establish whether you will anonymise or pseudonymise participants’ personal data. On your Informed Consent form and in your ethics application you must describe how/which personal data you will anonymise or pseudonymise.
 
 ### Risk Reduction Strategy #3: Secure Storage
 
@@ -112,7 +112,7 @@ For more information about storage solutions at TU Delft, visit <a href="https:/
 “Pen Drives not a secure storage solution” by TU Delft Library – Education Support is licensed under CC BY 4.0
 ```
 
-- Commercial third party cloud storage such as Dropbox and Google Drive: Cloud applications such as Google and Dropbox store data outside the EU. They are thus not approved by TU Delft, especially for storing on personal research data.
+- Commercial third party cloud storage such as Dropbox and Google Drive: Cloud applications such as Google and Dropbox store data outside the EU. They are thus not approved by TU Delft, especially for storing personal research data.
 
 - Portable drives such as hard drives and thumb drives: it’s too easy for these to get damaged, lost or fall into the wrong hands.   
 

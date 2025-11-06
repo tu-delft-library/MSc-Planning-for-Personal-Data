@@ -22,8 +22,8 @@ Please note, these educational materials are meant to teach basic concepts and p
 
 ## Attribution
 
-This pilot material was developed in collaboration between Narmin Rzayeva (TU Delft Research Data & Software training team), Paige Folsom (Data Literacy Project @ TU Delft Library Education Support), and TU Delft data stewards Janine Strandberg and Nicolas Dintzner. Thank you to Guilherme Ferreira Sêco de Alvarenga for assisting in the creation of the Jupyter book. And special thanks to the piloting coordinators, instructors, and students of TIL5055 for their partnership.  
+This pilot material was developed in collaboration between Narmin Rzayeva (TU Delft Research Data & Software training team), Paige Folsom (Data Literacy Project @ TU Delft Library Education Support), and TU Delft data stewards Janine Strandberg and Nicolas Dintzner. Thank you to Paula Martinez Lavanchy for consultating on the development of these materials, to Thijs Slot for feedback about the HREC workflow, and to Joost Barendse for expertise about the TU Delft personal research data workflow. Appreciation to Guilherme Ferreira Sêco de Alvarenga for assisting in the creation of the Jupyter book. And special thanks to the piloting coordinators, instructors, and students of TIL5055 for their partnership.  
 
 ## How to Cite This Resource 
 
-> `Folsom, P., Ryazeva, N.` (`2025`) _`MSc Planning for Personal Data Mini-module`_. `<https://tu-delft-library.github.io/MSc-Planning-for-Personal-Data/main/introduction/introduction.html>`. Source files at `<https://github.com/TUDelft-books/MSc-Planning-for-Personal-Data>`. CC BY 4.0.
+> `Folsom, P., Ryazeva, N., Strandberg, J., Dintzner, N.` (`2025`) _`MSc Planning for Personal Data Mini-module`_. `<https://tu-delft-library.github.io/MSc-Planning-for-Personal-Data/main/introduction/introduction.html>`. Source files at `<https://github.com/TUDelft-books/MSc-Planning-for-Personal-Data>`. CC BY 4.0.

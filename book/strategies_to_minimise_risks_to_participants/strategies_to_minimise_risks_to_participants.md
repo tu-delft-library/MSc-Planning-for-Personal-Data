@@ -2,7 +2,7 @@
 
 ## Research Ethics: Minimising Risks
 
-**Conducting ethical research means avoiding potential harm to participants** from the moment you start designing your research project for as long as the data is stored <mark>and archived. It's important to anticipate any damage that could occur from collecting, sharing, and storing personal data.</mark> In this section, we'll focus on strategies to minimise such risks.   
+**Conducting ethical research means avoiding potential harm to participants** from the moment you start designing your research project for as long as the data is stored. In this section, we'll focus on strategies to minimise such risks.   
 
 Here are three examples of risks related to personal data. Turn the cards to see potential mitigations for each:
 
@@ -94,66 +94,13 @@ Anonymisation and pseudonymisation are **time-intensive processes**. We recommen
 
 ### Risk Reduction Strategy #3: Secure Storage
 
-Secure data storage practices are a key risk mitigation strategy. Secure storage protects you against data loss and protects personal data from security breaches or leaks. You must choose a storage solution appropriate to the size and the sensitivity of the data, and preferably a platform that stores data within the EU. If applicable, you might also consider which storage options allow you to share the data securely with collaborators. File sharing only applies if you are working with data that can legally and ethically be shared.  Some sensitive personal data and certain proprietary information should not be shared freely. 
+Secure data storage practices are a key risk mitigation strategy. Secure storage protects you against data loss and protects personal data from security breaches or leaks. You must choose a storage solution appropriate to the size and the sensitivity of the data, and preferably a platform that stores data within the EU. If applicable, you might also consider which storage options allow you to share the data securely with collaborators. File sharing only applies if you are working with data that can legally and ethically be shared.  
 
-Here is an overview of recommended storage platforms for master’s students at TU Delft:   
+Here is an overview of recommended storage platforms for master’s students at TU Delft:  
 
-#### Recommended Storage Solutions
+INSERT TABLE
 
-```{dropdown} Project Data (U:) Drive
-
-**Key details**
-* If you are working with special categories of personal data or data from vulnerable subjects, it is strongly recommended to use Project Data (U:) Drive, a network drive provided by TU Delft, for secure data storage.
-* A supervisor must submit a request in TopDesk to create or delete a folder on an MSc student's behalf by submitting a request to ICT services.
-
-**Benefits**
-* Data saved in a Project Data (U:) Drive is automatically backed up by the TU Delft ICT department. So, when using the Project Data (U:) drive you can rest assured that data of your participants is securely stored, with no risk of the data getting lost.
-* A Project Drive (U:) Drive is accessible off campus by using the eduVPN server. (New to eduVPN? Find instructions here.)
-* A Project Data (U:) Drive can be accessed by other project members. Your supervisor will need to indicate in the request form who will have access to it by providing their full name and netIDs.
-
-**Potential Exceptions**
-* For proprietary data you should check the agreement with the company if saving data on the Project Data (U:) drive is allowed.
-```
-
-```{dropdown} Surf Drive <img src="../figures/surfdrive-logo.png" width="48" style="vertical-align: middle; margin-right: 16px;">
-
-**Key details**
-* With SURF's community cloud it's possible to store, synchronise and share your files easily and securely.
-* Your supervisor must request access to a SURF Drive folder on your behalf.
-
-**Benefits**
-* Access files anywhere with internet.
-* 1TB of storage space.
-* Secure place to store personal data (for exceptions see below).
-* Possible sharing with external collaborators, even if they are not SURFdrive users.
-
-**Potential exceptions:**
-* SURFdrive is not suitable for highly sensitive personal data. When in doubt, check with your faculty data steward if the data of your project can be stored in SURFdrive.
-* For proprietary data you should check the agreement with the company if saving data on the SURFdrive is allowed.
-* SURFdrive is recommended to be used as a temporary storage for research data, not as a primary storage location. This is because it is linked to your netID, and once you leave TU Delft the data will be lost.
-* You need to ensure that the data stored in SURFdrive will be transferred to your supervisor when the project ends.
-```
-
-```{dropdown} One Drive for Business
-
-**Key details**
-* Master's students at TU Delft are assigned a OneDrive account for storing personal documents
-* TU Delft IT department do not advise using One Drive for Business to store research data.
-* Highly confidential or sensitive data should not be stored in One Drive without an encryption.
-* OneDrive folders containing your research data should be shared with your supervisor(s).
-
-**Benefits**
-* OneDrive allows for file sharing
-* Files stored on the OneDrive are automatically backed up.
-* You can access files saved to OneDrive from the browser anywhere with an internet connection.
-* You can set up a desktop version of OneDrive to back up your personal device.
-
-**Potential drawbacks**
-* OneDrive is not a secure storage option for sensitive personal data, high-risk special category data, or data from vulnerable subjects. When in doubt, check with your faculty data steward regarding secure storage locations.
-* Consider using One Drive for Business only as a temporary (not primary) storage location. Once you leave TU Delft the data will be permanently deleted.
-* For proprietary data you should check the agreement with the company if using OneDrive is allowed.
-* The amount of storage space on OneDrive (300 GB) might not be enough to store some types of data (ex: collections of high-speed video files).
-```
+For more information about storage solutions at TU Delft, visit <a href="https://storagefinder.tudelft.nl/" target="_blank">this link</a>. 
 
 #### NOT recommended for storage
 

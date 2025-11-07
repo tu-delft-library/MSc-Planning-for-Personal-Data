@@ -96,14 +96,18 @@ Anonymisation and pseudonymisation are **time-intensive processes**. We recommen
 
 Secure data storage practices are a key risk mitigation strategy. Secure storage protects you against data loss and protects personal data from security breaches or leaks. You must choose a storage solution appropriate to the size and the sensitivity of the data, and preferably a platform that stores data within the EU. If applicable, you might also consider which storage options allow you to share the data securely with collaborators. File sharing only applies if you are working with data that can legally and ethically be shared.  
 
-Here is an overview of recommended storage platforms for master’s students at TU Delft:  
+**Recommended storage solutions for master’s students at TU Delft:**
 
-INSERT TABLE
+| Storage Solution | Key points |
+|----------------|--------------|
+| **OneDrive** | - You can use the [OneDrive](https://onedrive.live.com) as a storage solution for student projects in *most cases*, **unless the project involves highly sensitive personal data** such as special categories of personal data or data from vulnerable subjects.  <br><br> - **Sensitive personal data such as directly identifiable information** (e.g. names, contact information, signed informed consent forms) can be stored in the OneDrive, but these **should be encrypted**. |
+| **Project Data (U:) Drive** | - The Project Data (U:) Drive is the **primary recommended solution if you are working with personal data**, particularly highly sensitive personal data such as special categories of personal data or data from vulnerable subjects.  <br><br> - The Project Data (U:) Drive is secure, automatically backed up and ensures long-term access to the data.  <br><br> - Your supervisor must request access to the Project Data (U:) Drive on your behalf. |  
+| **SURF Drive** | - The SURF Drive allows sharing files with external collaborators.  <br><br> - The SURF Drive is not a suitable place to store highly sensitive personal data such as special categories of personal data.  <br><br> - Your supervisor must create a folder for you in their SURF Drive. |
+
 
 For more information about storage solutions at TU Delft, visit <a href="https://storagefinder.tudelft.nl/" target="_blank">this link</a>. 
 
 #### NOT recommended for storage
-
 
 ```{figure} ../figures/non-storage-solutions.png
 :width: 300px

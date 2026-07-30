@@ -1,6 +1,6 @@
 # Introduction
 
-During your thesis project or a course assignment, do you plan to collect or re-use any data that originated from humans? That means that you will be dealing with personal research data, and you must follow certain legal and ethical guidelines. This training is meant for you!  This module will support you during the planning phase of your research. That way you can plan ahead to ensure that all personal data will be handled in a safe and ethical manner.  
+During your thesis project or a course assignment, do you plan to collect or re-use any data that **originated from humans**? That means that you will be dealing with **personal research data**, and you must follow certain legal and ethical guidelines. This training is meant for you!  This module will support you during the planning phase of your research. That way you can plan ahead to ensure that all personal data will be handled in a safe and ethical manner.  
 
 ## Learning Goals by Section
 

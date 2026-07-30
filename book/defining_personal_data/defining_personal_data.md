@@ -4,11 +4,11 @@ In this section, we will define personal data and give examples.
 
 The General Data Protection Regulation (GDPR) establishes legal guidelines for working with personal research data within the European Union. Although we will not delve into the particularities of the law itself, the definitions and recommendations shared in this module are all in accordance with the GDPR.  
 
-As a researcher, it's important to recognize in advance whether your study will involve personal data. That way you can check the design of your study and focus on minimising risks to your participants. It's wise to start planning early since you must obtain ethical approval to work with personal data.  
+As a researcher, it's important to recognize **in advance** whether your study will involve personal data. That way you can check the design of your study and focus on minimising risks to your participants. It's wise to start planning early since you must obtain **ethical approval to work with personal data**.  
 
 ```{admonition} Instructions
 :class: tip
-Watch this video to learn about recognizing different types of personal data and to understand why some types of personal data carry increased risk. You can enable captions using the video's menu bar. 
+Watch this video to learn about recognizing different types of personal data and to understand why some types of personal data carry increased risk . You can enable captions using the video's menu bar. 
 ```
 
 <iframe

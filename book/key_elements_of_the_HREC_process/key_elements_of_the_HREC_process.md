@@ -36,7 +36,9 @@ In the HREC checklist, you will indicate potential risks involved in your resear
 
 ### Component #2: Your DMP
 
-You'll be instructed to upload a copy of your Data Management Plan (DMP). A DMP describes how you plan to manage your data throughout the research process, from start to wrap-up of the project. As indicated in the flowchart, for the purposes of HREC, you must create your DMP in TU Delft's [DMP-Online](https://dmponline.tudelft.nl/?perform_check=false). Your DMP should provide a level of detail and description that helps someone with no knowledge of your research project to imagine your research method and/or experimental setup: what type of data you will collect, and what you will do with it. The more detailed and descriptive your documentation, the better! For more information, visit the [TU Delft Library's webpage about DMP Online](https://www.tudelft.nl/en/library/data-management/research-data-management/dmponline-tool-for-research-data).
+You'll be instructed to upload a copy of your Data Management Plan (DMP). A DMP describes how you plan to manage your data throughout the research process, from start to wrap-up of the project. As indicated in the flowchart, for the purposes of HREC, you must create your DMP in TU Delft's [DMP-Online](https://dmponline.tudelft.nl/?perform_check=false). Your DMP should provide a level of detail and description that helps someone with no knowledge of your research project to imagine your research method and/or experimental setup: what type of data you will collect, and what you will do with it. The more detailed and descriptive your documentation, the better! Check out these resources for guidance: 
+- Download an [example of a DMP](content_to_download/Example_DMP_Faculty_of_TPM.pdf) 
+- For more information, visit the [TU Delft Library's webpage about DMP Online](https://www.tudelft.nl/en/library/data-management/research-data-management/dmponline-tool-for-research-data).
 
 
 ### Component #3: Participant consent materials

@@ -6,7 +6,7 @@ During your thesis project or a course assignment, do you plan to collect or re-
 
 By participating in this module, you will learn how to:  
 
-| Section | Topics |
+| Section | Learning Goals |
 |---------|--------|
 | Section I | Recognize personal data. Recognize types of data that carry increased risk. |
 | Section II | Identify potential risks to human participants. Understand how to mitigate these risks. |

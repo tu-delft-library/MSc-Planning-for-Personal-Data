@@ -1,12 +1,26 @@
-# Closing Remarks
+# Closing Remarks 
 
-## Appreciations & Feedback
+Thank you for participating in this mini-module, Planning for Personal Data! The overarching goal of this mini-course was to help you learn concepts and processes related to working with personal data and to support you as you prepare the components of an HREC application. The learning goals included: 
 
-Thank you for your participation in this pilot mini-module “Planning for Personal Data.” We would be thrilled to have your feedback on these materials so that we can continue to improve them. 
+- Recognize personal data. Recognize types of data that carry increased risk.
+- Identify potential risks to human participants. Recognize how to mitigate these risks.
+- Recognize key components of TU Delft's Human Research Ethics Committee's application process.
 
-## Module Recap & Additional Resources
+We wish you the best with your master's thesis project! 
 
-The goal of this mini-course was to help you learn concepts and processes related to working with personal data and to support you as you prepare the components of an HREC application. To learn about what to do in a wider variety of research situations, and to explore the topics in more depth, we recommend that you check out these additional resources:  
+## Feedback Survey
+
+:::{card} Please share your feedback 
+We would so appreciate your input to help make these materials better. Click the blue button below to participate in this brief survey: 
+```{button-link} https://tudelft.fra1.qualtrics.com/jfe/form/SV_ezjkPkMxRIBqCOO
+:color: primary
+FEEDBACK SURVEY
+```
+:::
+
+## Additional Resources
+
+To learn about ethics for human research data in a wider variety of research situations, and to explore the topics in more depth, we recommend that you check out these additional resources:  
 
 - [Self-paced Course: Personal Data & Human Subjects in Research](https://www.tudelft.nl/library/data-management/trainingen/trainingen-voor-onderzoekers-en/personal-data-human-subjects-in-research)
     - This is a longer self-paced course meant for researchers, PhD candidates, and MSc students. We recommend that you enroll if you are interested in going more into depth about how the GDPR shapes research, and more complex research scenarios involving personal data. 

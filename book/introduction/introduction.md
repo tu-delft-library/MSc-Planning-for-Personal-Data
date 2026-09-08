@@ -9,8 +9,8 @@ By participating in this module, you will learn how to:
 | Section | Topics |
 |---------|--------|
 | Section I | Recognize personal data. Recognize types of data that carry increased risk. |
-| Section II | Identify potential risks to human participants. Explain how to mitigate these risks. |
-| Section III | Explain key components of TU Delft's Human Research Ethics Committee's application process. |
+| Section II | Identify potential risks to human participants. Understand how to mitigate these risks. |
+| Section III | Recognize key components of TU Delft's Human Research Ethics Committee's application process. |
 
 ## Format of This Mini-module
 

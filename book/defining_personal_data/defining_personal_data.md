@@ -9,7 +9,7 @@ As a researcher, it's important to recognize **in advance** whether your study w
 
 ```{admonition} Instructions
 :class: tip
-Watch this video to learn about recognizing different types of personal data and to understand why some types of personal data carry increased risk . You can enable captions using the video's menu bar. 
+Watch this video to learn about recognizing different types of personal data and to understand why some types of personal data carry increased risk . You can enable subtitles using the video's menu bar. 
 ```
 
 <iframe

@@ -1,5 +1,6 @@
 # I. Defining Personal Data
 
+## Defining Personal Data 
 In this section, we will define personal data and give examples. 
 
 The General Data Protection Regulation (GDPR) establishes legal guidelines for working with personal research data within the European Union. Although we will not delve into the particularities of the law itself, the definitions and recommendations shared in this module are all in accordance with the GDPR.  
@@ -25,7 +26,7 @@ allowfullscreen
 
 Will your thesis project involve processing any data from humans, including datasets collected by a 3rd party or data collected from social media? If yes, you must submit a request to the TU Delft Human Research Ethics Committee (HREC). Proceed to the next sections to learn more. 
 
-## Practice (Optional)
+## Check your understanding
 
 The video defined personal data, gave examples, and discussed categories of personal data that carry different degrees of sensitivity. Now you have the option to take a short practice quiz to check your understanding of key concepts. 
 

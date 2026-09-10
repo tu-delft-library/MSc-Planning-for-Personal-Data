@@ -135,7 +135,7 @@ For more information about storage solutions at TU Delft, visit <a href="https:/
 - Your supervisor should have access to the data.  
 
 
-## Practice (Optional) 
+## Check your understanding
 
 Take this optional quiz to check your understanding of risk mitigation strategies. 
 
